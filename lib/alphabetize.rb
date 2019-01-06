@@ -20,9 +20,3 @@ def priority_number (word,max)
   end
   return number_array
 end
-
-def talktome
-  puts "i like you more than your boyfriend"
-end
-
-talktome
