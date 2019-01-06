@@ -24,3 +24,5 @@ end
 def talktome
   puts "i like you more than your boyfriend"
 end
+
+talktome
